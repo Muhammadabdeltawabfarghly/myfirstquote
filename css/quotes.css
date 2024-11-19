@@ -1,0 +1,43 @@
+body{
+    background-image: url(../image/MDA.webp);
+    display: inline;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+}
+#quote-box{
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    margin: 53.600px;
+}
+p{
+    margin: 35px;
+    font-size: 35px;
+    font-weight: 500;
+    font-style: italic;
+    font-family: sans-serif;
+}
+.PQuote {
+    font-family:sans-serif;
+    font: 2em sans-serif;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color:rgb(29, 25, 24);
+    color: white;
+    border-style:initial;
+    border-radius: 40px;
+    font-family:  sans-serif ;
+    font-size: larger;
+    margin-top: 20px;
+}
+button:hover{
+    background-color:gold;
+    color: #000;
+}
+
+
